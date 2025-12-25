@@ -1,5 +1,22 @@
 # ⚛️ Quantum Circuit Composer
 
+## 📸 Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+*Main interface and key features*
+
+### Additional Views
+![Features](screenshots/features.png)
+*Additional functionality and views*
+
+> **Note**: Screenshots will be added to the `screenshots/` directory. To add your own:
+> 1. Take screenshots of your application
+> 2. Save them in a `screenshots/` folder  
+> 3. Update the image paths above
+
+
+
 An interactive, educational web application for building and simulating quantum circuits. Learn quantum computing through hands-on experimentation with drag-and-drop gates, real-time visualizations, and engaging challenges.
 
 ![Quantum Circuit Composer](https://img.shields.io/badge/Quantum-Computing-purple) ![React](https://img.shields.io/badge/React-18.2-blue) ![Vite](https://img.shields.io/badge/Vite-5.0-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
